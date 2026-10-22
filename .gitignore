@@ -1,0 +1,12 @@
+/Library/
+/Temp/
+/Logs/
+/UserSettings/
+/Obj/
+/Build/
+/Builds/
+.utmp
+*.apk
+.DS_Store
+*.csproj
+*.sln
